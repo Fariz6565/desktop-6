@@ -1,0 +1,122 @@
+.one{
+    width: 100%;
+    height: 100vh;
+    
+}
+
+.one-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    padding-top: 300px;
+}
+
+.two{
+    width: 100%;
+    height: 100vh;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
+
+.two-container-text{
+    padding-bottom: 100px;
+}
+
+.two-container{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.three{
+    width: 100%;
+    height: 100vh;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
+
+.three-container-text{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 80px;
+    gap: 10px;
+    text-align: center;
+}
+
+.four{
+    width: 100%;
+    height: 100vh;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+    text-align: center;
+
+}
+.four-left-button{
+    display: flex;
+    gap: 20px;
+}
+.try{
+    width: 110px;
+    height: 50px;
+    background-color: rgba(35, 166, 240, 1);
+    border: 1px solid rgba(35, 166, 240, 1);
+    border-radius: 5px;
+    color: white;
+    
+}
+.learn{
+    width: 150px;
+    height: 50px;
+    background-color: transparent;
+    border: 1px solid rgba(35, 166, 240, 1);
+    border-radius: 5px;
+    color: rgba(35, 166, 240, 1);
+}
+
+.four-right-button{
+    display: flex;
+    gap: 40px;
+}
+
+.five{
+    width: 100%;
+    height: 100vh;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    gap: 50px;
+}
+
+.five-top{
+    display: flex;
+    gap: 40px;
+}
+.five-bottom{
+    display: flex;
+    gap: 40px;
+}
+
+.six{
+    width: 100%;
+    height: 100vh;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    background-color: rgba(37, 43, 66, 1);
+    color: rgba(255, 255, 255, 1);
+}
